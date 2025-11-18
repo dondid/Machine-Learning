@@ -1,3 +1,4 @@
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/614f5b39-447c-4a7b-9f7f-d86f08db5f5b" />
 <img width="600" height="600" alt="suv_violinplot" src="https://github.com/user-attachments/assets/af3561d8-5dbd-4760-92b4-644474e0fa78" />
 <img width="800" height="600" alt="suv_mileage_vs_price" src="https://github.com/user-attachments/assets/90c5cd10-9d89-4aaf-aa33-82a68830c939" />
 <img width="600" height="600" alt="suv_boxplot" src="https://github.com/user-attachments/assets/c4163e64-a5e8-413e-8824-4c54d4d2865d" />
