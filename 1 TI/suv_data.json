@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Toyota RAV4",
+    "engine": "2.5L",
+    "fuel": "Hybrid",
+    "year": 2021,
+    "mileage": 35000,
+    "price": 28500
+  },
+  {
+    "type": "Honda CR-V",
+    "engine": "1.5L Turbo",
+    "fuel": "Petrol",
+    "year": 2020,
+    "mileage": 48000,
+    "price": 24800
+  },
+  {
+    "type": "Mazda CX-5",
+    "engine": "2.0L",
+    "fuel": "Petrol",
+    "year": 2022,
+    "mileage": 22000,
+    "price": 31200
+  },
+  {
+    "type": "Ford Escape",
+    "engine": "2.0L",
+    "fuel": "Hybrid",
+    "year": 2019,
+    "mileage": 67000,
+    "price": 21500
+  },
+  {
+    "type": "Nissan Rogue",
+    "engine": "2.5L",
+    "fuel": "Petrol",
+    "year": 2021,
+    "mileage": 41000,
+    "price": 26300
+  },
+  {
+    "type": "Subaru Forester",
+    "engine": "2.5L",
+    "fuel": "Petrol",
+    "year": 2020,
+    "mileage": 53000,
+    "price": 23900
+  }
+]
